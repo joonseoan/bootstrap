@@ -1,0 +1,3 @@
+Iinstall
+
+1. In vscod, install live server
